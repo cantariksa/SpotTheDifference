@@ -1,4 +1,4 @@
-# SpotTheDifference
+# Spot The Difference
 
 This is a "Spot the Difference" game. 
 This uses inspiration, images, and music from the game Animal Crossing New Horizons. All copyrights reserved to Nintendo. 
